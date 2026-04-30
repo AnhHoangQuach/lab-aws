@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building...'
+                echo 'Building.......'
                 // For example: sh './gradlew build' or 'npm install'
             }
         }
